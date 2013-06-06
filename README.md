@@ -1,0 +1,4 @@
+fangstory
+=========
+
+learn before program
